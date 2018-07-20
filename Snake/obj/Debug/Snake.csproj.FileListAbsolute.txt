@@ -1,0 +1,15 @@
+c:\users\blondi\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\blondi\source\repos\Snake\Snake\bin\Debug\Snake.exe
+c:\users\blondi\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\MainWindow.g.cs
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\App.g.cs
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\MainWindow.baml
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.g.resources
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.exe
+c:\users\blondi\source\repos\Snake\Snake\obj\Debug\Snake.pdb
